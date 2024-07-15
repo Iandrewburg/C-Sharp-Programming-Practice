@@ -1,0 +1,15 @@
+C:\Users\iandr\OneDrive\Desktop\Follw-up Studies\C-Sharp-Programming-Practice\Training-1\Training-1\bin\Debug\net8.0\Training-1.exe
+C:\Users\iandr\OneDrive\Desktop\Follw-up Studies\C-Sharp-Programming-Practice\Training-1\Training-1\bin\Debug\net8.0\Training-1.deps.json
+C:\Users\iandr\OneDrive\Desktop\Follw-up Studies\C-Sharp-Programming-Practice\Training-1\Training-1\bin\Debug\net8.0\Training-1.runtimeconfig.json
+C:\Users\iandr\OneDrive\Desktop\Follw-up Studies\C-Sharp-Programming-Practice\Training-1\Training-1\bin\Debug\net8.0\Training-1.dll
+C:\Users\iandr\OneDrive\Desktop\Follw-up Studies\C-Sharp-Programming-Practice\Training-1\Training-1\bin\Debug\net8.0\Training-1.pdb
+C:\Users\iandr\OneDrive\Desktop\Follw-up Studies\C-Sharp-Programming-Practice\Training-1\Training-1\obj\Debug\net8.0\Training-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iandr\OneDrive\Desktop\Follw-up Studies\C-Sharp-Programming-Practice\Training-1\Training-1\obj\Debug\net8.0\Training-1.AssemblyInfoInputs.cache
+C:\Users\iandr\OneDrive\Desktop\Follw-up Studies\C-Sharp-Programming-Practice\Training-1\Training-1\obj\Debug\net8.0\Training-1.AssemblyInfo.cs
+C:\Users\iandr\OneDrive\Desktop\Follw-up Studies\C-Sharp-Programming-Practice\Training-1\Training-1\obj\Debug\net8.0\Training-1.csproj.CoreCompileInputs.cache
+C:\Users\iandr\OneDrive\Desktop\Follw-up Studies\C-Sharp-Programming-Practice\Training-1\Training-1\obj\Debug\net8.0\Training-1.sourcelink.json
+C:\Users\iandr\OneDrive\Desktop\Follw-up Studies\C-Sharp-Programming-Practice\Training-1\Training-1\obj\Debug\net8.0\Training-1.dll
+C:\Users\iandr\OneDrive\Desktop\Follw-up Studies\C-Sharp-Programming-Practice\Training-1\Training-1\obj\Debug\net8.0\refint\Training-1.dll
+C:\Users\iandr\OneDrive\Desktop\Follw-up Studies\C-Sharp-Programming-Practice\Training-1\Training-1\obj\Debug\net8.0\Training-1.pdb
+C:\Users\iandr\OneDrive\Desktop\Follw-up Studies\C-Sharp-Programming-Practice\Training-1\Training-1\obj\Debug\net8.0\Training-1.genruntimeconfig.cache
+C:\Users\iandr\OneDrive\Desktop\Follw-up Studies\C-Sharp-Programming-Practice\Training-1\Training-1\obj\Debug\net8.0\ref\Training-1.dll
