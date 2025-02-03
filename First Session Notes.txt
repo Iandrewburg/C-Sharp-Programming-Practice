@@ -1,0 +1,3 @@
+Unity and Unreal Engine for game development
+Xamarin and MAUI (more up to date) for mobile app development
+Web development: ASP.NET, blazor, SignalR, Web API
